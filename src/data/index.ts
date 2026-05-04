@@ -87,7 +87,7 @@ export const data: DataInfo[] = [
     {
         name: 'FrontEnd Store',
         url: 'https://errold2.netlify.app',
-        description: 'Web de práctica hecha con HTML y CSS puros.',
+        description: 'Web de práctica hecha con HTML y CSS puro.',
         imageUrl: '/frontendStore.png'
     },
     {
@@ -123,7 +123,7 @@ export const data: DataInfo[] = [
     {
         name: 'TerraCars',
         url: 'https://terra-cars.vercel.app',
-        description: 'Web hacha para un renta car real, hecha con Next.js.',
+        description: 'Web hecha para un renta car real, hecha con Next.js.',
         imageUrl: '/terraCars.png'
     },
     {
