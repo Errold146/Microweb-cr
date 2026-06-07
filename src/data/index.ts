@@ -144,4 +144,10 @@ export const data: DataInfo[] = [
         description: 'Web de práctica con tema de los vengadores.',
         imageUrl: '/vengadores.png'
     },
+    {
+        name: 'TerraTechview',
+        url: 'https://www.techview.microweb-cr.es',
+        description: 'Plataforma para crear y practicar entrevistas para desarrolladores con IA',
+        imageUrl: '/techview.png'
+    },
 ]
