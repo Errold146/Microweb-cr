@@ -150,4 +150,16 @@ export const data: DataInfo[] = [
         description: 'Plataforma para crear y practicar entrevistas para desarrolladores con IA',
         imageUrl: '/techview.png'
     },
+    {
+        name: 'TerraDev',
+        url: 'https://terra-dev-x3uj.vercel.app/',
+        description: 'Proyecto clon de Netflix.',
+        imageUrl: '/terradev.png'
+    },
+    {
+        name: 'DevStagram',
+        url: 'https://devstagram.microweb-cr.es',
+        description: 'Red social para desarrolladores, similar a Instagram.',
+        imageUrl: '/devstagram.png'
+    }
 ]
