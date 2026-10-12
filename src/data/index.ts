@@ -161,5 +161,11 @@ export const data: DataInfo[] = [
         url: 'https://devstagram.microweb-cr.es',
         description: 'Red social para desarrolladores, similar a Instagram.',
         imageUrl: '/devstagram.png'
+    },
+    {
+        name: 'DevJobs',
+        url: 'https://devjobs.microweb-cr.es',
+        description: 'Plataforma para encontrar y publicar empleos para desarrolladores.',
+        imageUrl: '/devjobs.png'
     }
 ]
