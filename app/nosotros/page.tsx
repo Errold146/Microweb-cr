@@ -11,7 +11,8 @@ export const metadata: Metadata = {
 const stack = [
     "Next.js", "React", "Vue.js", "Astro",
     "TypeScript", "Node.js", "WordPress",
-    "Tailwind CSS", "HTML & CSS",
+    "Tailwind CSS", "HTML & CSS", "PHP & Laravel",
+    "Nuxt.js", "NestJS", "Express.js"
 ];
 
 const redes = [

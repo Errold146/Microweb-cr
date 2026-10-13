@@ -30,7 +30,7 @@ export async function sendContactEmail(data: ContactFormData): Promise<ActionRes
     }
 
     try {
-        const { data, error } = await resend.emails.send({
+        const { error } = await resend.emails.send({
             from: 'Microweb-cr <onboarding@resend.dev>',
             to: 'errold222@gmail.com',
             replyTo: email,
